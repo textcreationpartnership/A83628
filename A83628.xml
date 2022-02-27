@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Lunæ, 18 Septemb. 1643. Whereas Thomas Andrewes, John Fowke, Richard Chambers, William Barkley, Aldermen of the city of London; Maurice Thompson, Francis Allen, James Russell, and Stephen Estwick, merchants, are ordained and constituted to be collectors and commissioners, enabled to receive all such summes of money as should bee paid for customes ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83628</idno>
+            <idno type="STC">Wing E2498A</idno>
+            <idno type="STC">ESTC R226378</idno>
+            <idno type="EEBO-CITATION">45097744</idno>
+            <idno type="OCLC">ocm 45097744</idno>
+            <idno type="VID">171337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2571:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Lunæ, 18 Septemb. 1643. Whereas Thomas Andrewes, John Fowke, Richard Chambers, William Barkley, Aldermen of the city of London; Maurice Thompson, Francis Allen, James Russell, and Stephen Estwick, merchants, are ordained and constituted to be collectors and commissioners, enabled to receive all such summes of money as should bee paid for customes ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Blaikelock, at the Temble-Barre [sic],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>"23 Martii, 1643 [i.e. 1644]. Ordered by the Commons assembled in Parliament that this ordinance be forthwith printed and published. H. Elsynge Cler. Parl. D. Com."</note>
+                  <note>Imperfect: tightly bound with slight loss of print.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulation --  Great Britain.</term>
+               <term>Customs administration --  Law and legislation --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171337:1" rendition="simple:additions"/>
+            <head>Die Lunae, 18 Septemb. 1643.</head>
+            <p>
+               <seg rend="decorInit">W</seg>hereas <hi>Thomas Andrews, John Fowke, Richard Chambers, William Bark<g ref="char:EOLhyphen"/>ley,</hi> Aldermen of the City of London; <hi>Maurice Thompſon, Francis Allen, James Ruſſell,</hi> and <hi>Stephen Eſtwick,</hi> Merchants, are Ordained and Conſtituted to be Col<g ref="char:EOLhyphen"/>lectors and Commiſſioners, ena<g ref="char:EOLhyphen"/>bled to receive all ſuch ſummes of Money as ſhould bee paid for Cuſtomes, or advanced by way of Loan, or otherwiſe for and in re<g ref="char:EOLhyphen"/>ſpect of Goods and Merchandize,
+<pb facs="tcp:171337:2"/>exported out of, and imported into the Port of <hi>London,</hi> and all other Ports within the Realm of <hi>England,</hi> Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> and Towne of <hi>Barwick,</hi> the ſaid Commiſſioners receiving what they ought to re<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve, by vertue of the ſeverall Or<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inances of both Houſes of Parli<g ref="char:EOLhyphen"/>ament already paſt, concerning them, are contented to advance by way of Loan, thirty thouſand pounds, towards ſupply of the preſ<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſſities of the Navie:</p>
+            <p>It is thereupon ordained by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. That the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners ſhall repay unto themſelves by way of defalcation, out of the one <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lfe of the ſaid Receipts, the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſaid ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mme of thirty thouſand grounds, with Intereſt for the ſame, <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>r the rate of eight pound <hi>per<g ref="char:EOLhyphen"/>cent.</hi> for a yeare at the end of ſix <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neths next to bee elapſed and
+<pb facs="tcp:171337:2"/>expired; And for the further en<g ref="char:EOLhyphen"/>couragement and ſecurity of the ſaid Commiſſioners, It is likewiſe Ordained by the ſaid Lords and Commons, that the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners ſhall continue in the ſaid im<g ref="char:EOLhyphen"/>ployment untill the five &amp; twentieth of <hi>March</hi> one thouſand ſix hundred forty five, And ſhall not then be diſ<g ref="char:EOLhyphen"/>placed nor diſmiſſed from the ſaid imployment, without Order of both houſes of Parliament; for untill they be re-imburſed the ſaid thirty thouſand pounds, with Intereſt as aforeſaid, and all other ſums which ſhall bee due unto them. And it is likewiſe Ordained, that aſwell the Ordinance concerning the Subſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y of Tonnage and Poundage, with ſuch alterations as the ſaid Lords and Commons ſhall think ſit; As alſo the other ſeverall Ordinances herein mentioned, in all other things, ſhall ſtand and continue in
+<pb facs="tcp:171337:3"/>full force, and power, to all inten<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and purpoſes, during all the ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aforeſaid.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <head>23 <hi>Martii</hi> 1643.</head>
+            <p>ORdered by the Commons aſſem<g ref="char:EOLunhyphen"/>bled in Parliament that this Ordi<g ref="char:EOLunhyphen"/>nance be forthwith printed and pub<g ref="char:EOLunhyphen"/>liſhed,</p>
+            <closer>
+               <signed>
+                  <hi>H.Elſynge Cler. Parl. D. Con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>Laurance Blaiklock,</hi> at Temble Barre, 1644.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
